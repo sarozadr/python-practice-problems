@@ -10,12 +10,12 @@ Created on May 15, 2020
 Print each value to the console"""
 
 
-num = 10
+int_num = 10
 float_num = 20.54
-variable = True
-best_string= "I am the best"
+bool_var = True
+string_text = "I am the best"
 
-print(num)
+print(int_num)
 print(float_num)
-print(variable)
-print(best_string)
+print(bool_var)
+print(string_text)
