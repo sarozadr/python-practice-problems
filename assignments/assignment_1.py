@@ -9,12 +9,13 @@ Created on May 15, 2020
 4. Fourth variable string type
 Print each value to the console"""
 
-
+#declaring variables 
 int_num = 10
 float_num = 20.54
 bool_var = True
 string_text = "I am the best"
 
+#printing variables
 print(int_num)
 print(float_num)
 print(bool_var)
