@@ -3,6 +3,16 @@ Created on May 15, 2020
 """
 
 
+"""Collection Assignment
+1. Create a list of countries
+2. Initialize the list with three countries
+3. Add a country at the end of the list 
+4. Remove a country by index 
+5. Add a county in the middle of the list
+6. Repeat operations with a set"""
+
+
+
 #create a list
 countries_list = ["Cuba", "US","Canada"]
 print(countries_list)
