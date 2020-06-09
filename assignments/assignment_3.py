@@ -13,12 +13,14 @@ Created on May 27, 2020
 <=69 grade = B
 >69  grade = A"""
 
+
+#Declares variables, receives input and casts the input to an integer.
 math = int(input("Enter Math grade of student please: "))
 physics =  int(input("Enter Physics grade of student please: "))
 chemistry =  int(input("Enter Chemistry grade of student please: "))
 
 
-
+#Checks conditions.
 if math >= 35:
     print("Student passed the Math exam!")
 else:
@@ -32,8 +34,10 @@ if chemistry >= 35:
 else:
     print("Student did not pass the the Chemistry exam.")
 
+#Calculates average.
 avg = (math + physics + chemistry)/3
 
+#Checks conditions to print answer.
 if avg <= 59:
     print("Student got a 'C' grade")
 elif avg <= 69:
