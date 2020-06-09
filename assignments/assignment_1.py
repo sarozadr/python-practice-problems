@@ -12,10 +12,10 @@ Print each value to the console"""
 
 num = 10
 float_num = 20.54
-varieble = True
+variable = True
 best_string= "I am the best"
 
 print(num)
 print(float_num)
-print(varieble)
+print(variable)
 print(best_string)
