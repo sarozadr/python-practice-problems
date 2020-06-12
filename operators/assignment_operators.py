@@ -1,5 +1,5 @@
 
-"""Author Ariannna Delgado
+"""Author Arianna Delgado
 Created on May 15, 2020
 """
 

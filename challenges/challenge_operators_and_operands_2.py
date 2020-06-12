@@ -1,4 +1,4 @@
-"""Author Ariannna Delgado
+"""Author Arianna Delgado
 Created on May 29, 2020
 """
 
@@ -15,7 +15,7 @@ num_list =[1,2,2, 5, 5, 1, 3, 9, 3, 9, 6, 4, 4]
 
 for i in num_list:
     var = i
-    count1 = num_list.count(var)
+    count1 = num_list.count(i)
     if count1 % 2 != 0: 
         num = var
         occurs = count1

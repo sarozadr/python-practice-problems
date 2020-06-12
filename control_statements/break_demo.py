@@ -1,4 +1,4 @@
-"""Author Ariannna Delgado
+"""Author Arianna Delgado
 Created on May 28, 2020
 """
 
