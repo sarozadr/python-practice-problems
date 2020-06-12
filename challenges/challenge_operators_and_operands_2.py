@@ -17,7 +17,7 @@ for i in num_list:
     var = i
     count1 = num_list.count(i)
     if count1 % 2 != 0: 
-        num = var
+        num = i
         occurs = count1
                
 
