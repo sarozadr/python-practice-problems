@@ -13,6 +13,10 @@ def display():
     y = 456
     print(x)
 
-
-#This variable value can not be access, because it inside the  display function.
+#This variable value can not be access, because it inside the  display() function.
 #print(y)
+#display()
+
+#Displays the value of x two times first and then call display() function
+print(x)
+display()
