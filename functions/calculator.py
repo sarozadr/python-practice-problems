@@ -10,10 +10,10 @@ def calc(a,b):
     z = a / b
     return w, x,y,z
 
-#This prints results
+#This prints results of calculation.
 result = calc(10,5)
 print(result)    
 
-#Ways to print results
+#Ways to print results one by one.
 for i in result: 
     print (i)
