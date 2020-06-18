@@ -10,5 +10,5 @@ def average(a = 20 ,b = 10):
     return (a+b)/2
 
 
-#Changes the default value add arguments to the function.
+#Changes the default value, add arguments to the function.
 print(average(a = 50))    
