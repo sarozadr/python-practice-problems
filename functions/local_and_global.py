@@ -6,17 +6,20 @@ Created on July 14, 2020
 #This is a Global Variable.
 #Can be access any where.
 x = 123
-print(x)
+
 
 def display():
-    #Declares local variable.
+    #Declares local variable that can only be acccess inside the function.
     y = 456
-    print(x)
+    print(y)
+    #Calls x as a global variable
+    print(globals()['x'])
 
 #This variable value can not be access, because it inside the  display() function.
 #print(y)
 #display()
 
-#Displays the value of x two times first and then call display() function
+#Calls the global variable.
 print(x)
+#Calls the the function display().
 display()
