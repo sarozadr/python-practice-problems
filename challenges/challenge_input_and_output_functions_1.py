@@ -10,9 +10,10 @@ Sample Input:
 Enter your name: Anita
 Enter your marks: 80,70,60"""
 
-#Asks inputs.
+#Asks inputs of tree numbers.
 name = input("Please, enter your name: ")
-marks = list(input("Please, Enter your marks: ").split(","))
+marks = [int(x) for x in input("Enter three numbers separated by comma: ").split(",")]
+
 
 #Prints inputs
 print( name, "your marks are", marks)
