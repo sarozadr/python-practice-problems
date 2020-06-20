@@ -1,5 +1,5 @@
 """Author Arianna Delgado
-Created on July 18, 2020
+Created on June 18, 2020
 """
 
 """Use the filter function and retrieve only even numbers from a given list of numbers."""
