@@ -1,5 +1,5 @@
 """Author Arianna Delgado
-Created on July 14, 2020
+Created on June 14, 2020
 """
 
 #Defines a function to calculate average.
