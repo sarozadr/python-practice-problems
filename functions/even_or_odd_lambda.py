@@ -1,5 +1,5 @@
 """Author Arianna Delgado
-Created on July 18, 2020
+Created on June 18, 2020
 """
 
 """Create a Lambda that will return YES if a given number is even and NO if the given number is odd."""
