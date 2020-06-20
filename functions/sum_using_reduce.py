@@ -5,6 +5,7 @@ Created on July 18, 2020
 """Using the reduce function to find out the sum of all the elements in a list."""
 """Import the reduce model"""
 
+#import reduce function
 from functools import reduce
 
 list_num = [5,10,15,20]
