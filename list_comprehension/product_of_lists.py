@@ -10,7 +10,7 @@ second_list = [6,7,8,9,10]
 empty_list = []
 
 
-#Uses traditional way to solve the proplem.
+#Uses loop to solve the proplem.
 '''for i in range(len(first_list)):
     empty_list.append(first_list[i] * second_list[i])
 
