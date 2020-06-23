@@ -4,6 +4,7 @@ Created on June 23, 2020
 
 """Even numbers between 1 to 20 using list comprehension."""
 
+#Uses traditional way to solve the proplem.
 '''even_list =[x for x in range(2,21,2)]
 print(even_list)'''
 
