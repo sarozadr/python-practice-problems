@@ -21,3 +21,5 @@ print(empty_list)'''
 empty_list = [ first_list[i] * second_list[i] for i in range(len(first_list))]
 print(empty_list)
 
+
+
