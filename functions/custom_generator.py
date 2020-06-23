@@ -16,3 +16,5 @@ def customgen(x,y):
 result = customgen(20,30)
 
 for i in result: print(i)
+
+
