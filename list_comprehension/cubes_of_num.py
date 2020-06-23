@@ -10,6 +10,7 @@ The resulting list will contain the values if the condition is satisfied."""
 """Use list comprehension to calculate the cube of integer from 1 to 10"""
 
 
+#Uses loop  to solve the proplem.
 '''new_list = []
 
 for x in range(1,11):
@@ -21,5 +22,6 @@ print(new_list)'''
 #Uses list comprehension: expression and interable operation
 new_list = [x ** 3 for x in range(1, 11)]
 print(new_list)
+
 
 
