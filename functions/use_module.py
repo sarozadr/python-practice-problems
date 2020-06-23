@@ -18,3 +18,6 @@ print(my_math.diff(10,5))
 
 print(ari.sum(10,5))
 print(ari.diff(10,5))
+
+
+
